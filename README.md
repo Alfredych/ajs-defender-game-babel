@@ -42,7 +42,6 @@
       {name: 'маг', health: 0},  
       {name: 'лучник', health: 0},  
     ];  
-
     const alive = characters.filter(item => item.health > 0);
 
 
